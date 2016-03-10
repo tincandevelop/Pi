@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1457530777 source:d:\year 8 15-16\c++\pi\pi\main.cpp
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<float.h>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+
+1456578679 source:g:\year 8 15-16\c++\pi\pi\main.cpp
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
+1457546161 source:f:\year 8 15-16\c++\pi\pi\main.cpp
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<float.h>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+
+1457444331 source:f:\year 8 15-16\c++\pi\pi\resource.rc
+
+1457444331 source:d:\year 8 15-16\c++\pi\pi\resource.rc
+
